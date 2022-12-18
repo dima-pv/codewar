@@ -29,4 +29,3 @@ def create_phone_number2(n):
   return '({}) {}-{}'.format(str1, str2, str3)
 
 print(create_phone_number2([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]))
-
