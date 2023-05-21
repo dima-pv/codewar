@@ -14,8 +14,6 @@
 # eight(divided_by(three()))
 
 
-
-
 def zero(operation=None):
     if operation:
         return operation(0)
